@@ -39,3 +39,9 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Prose config
+prose:
+	siteurl: "https://evl33t.github.io"
+    media: "media"
+    relativelinks: "{"text": "Local", "href": "https://evl33t.github.io" }"
