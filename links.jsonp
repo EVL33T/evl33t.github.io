@@ -6,8 +6,8 @@ callback([
     "text": "{{page.title | replace:'"','\"'}}",
     "href": "{{site.baseurl}}{{page.url}}"
   }
-  {% endif %}
   {% unless forloop.last %},{% endunless%}
+  {% endif %}
 {% endfor %}
 
 ])
