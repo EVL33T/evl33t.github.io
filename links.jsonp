@@ -2,7 +2,7 @@
 ---
 callback([
 {% for page in site.pages %}
-{% if my_page.title %}
+{% if page.title %}
   {
     "text": "{{page.title | replace:'"','\"'}}",
     "href": "{{site.baseurl}}{{page.url}}"
