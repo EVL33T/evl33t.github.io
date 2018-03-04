@@ -2,12 +2,11 @@
 ---
 callback([
 {% for page in site.pages %}
-  {
-  {% if page.title %}
+  {% if page.title %}{
     "text": "{{page.title | replace:'"','\"'}}",
     "href": "{{site.baseurl}}{{page.url}}"
-    {% endif %}
   }
+  {% endif %}
   {% unless forloop.last %},{% endunless%}
 {% endfor %}
 
