@@ -1,7 +1,7 @@
 ---
 ---
 callback([
-{% for page in site.posts %}
+{% for page in site.pages %}
 {% if my_page.title %}
   {
     "text": "{{page.title | replace:'"','\"'}}",
