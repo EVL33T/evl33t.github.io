@@ -1,15 +1,13 @@
 ---
 ---
 callback([
-    {% assign default_paths = site.pages | map: "path" %}
-    {% assign page_paths = site.header_pages | default: default_paths %}
-    {% for path in page_paths %}
-    {% assign my_page = site.pages | where: "path", path | first %}
-    {% if my_page.title %}
+{% for page in site.posts %}
+{% if my_page.title %}
   {
     "text": "{{page.title | replace:'"','\"'}}",
     "href": "{{site.baseurl}}{{page.url}}"
   }
-  {% endif %}
-  {% endfor %}
+  {% endif %}{% unless forloop.last %},{% endunless%}
+{% endfor %}
+
 ])
