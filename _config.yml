@@ -42,6 +42,6 @@ plugins:
 
 # Prose config
 prose:
-	siteurl: "https://evl33t.github.io"
+    siteurl: "https://evl33t.github.io"
     media: "media"
     relativelinks: "{"text": "Local", "href": "https://evl33t.github.io" }"
