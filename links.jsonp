@@ -1,13 +1,19 @@
 ---
 ---
 callback([
+{% valpages = [] %}
 {% for page in site.pages %}
-  {% if page.title %}{
+{% if page.title %}
+{% valpages.push(page) %}
+{% endif %}
+{% endfor %}
+
+{% for page in valpages %}
+  {
     "text": "{{page.title | replace:'"','\"'}}",
     "href": "{{site.baseurl}}{{page.url}}"
   }
   {% unless forloop.last %},{% endunless%}
-  {% endif %}
 {% endfor %}
 
 ])
