@@ -2,6 +2,13 @@
 ---
 callback([
 {% for page in site.pages %}
+  {
+    "text": "{{page.title | replace:'"','\"'}}",
+    "href": "{{site.baseurl}}{{page.url}}"
+  }
+  ,
+{% endfor %}
+{% for page in site.posts %}
 {% if page.title %}
   {
     "text": "{{page.title | replace:'"','\"'}}",
