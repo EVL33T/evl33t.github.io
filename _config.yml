@@ -65,6 +65,11 @@ prose:
           element: "text"
           label: "Splash image"
           value: ""
+      - name: "categories"
+        field:
+          element: "text"
+          label: "Categories"
+          value: ""
       - name: "tags"
         field:
           element: "multiselect"
