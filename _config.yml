@@ -16,9 +16,12 @@
 title: EVHS Hacking Club
 email: evhacking@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the hacking club at Evergreen Valley High School, est. 2018-2019.
+  This is the hacking club at Evergreen Valley High School, est. 2018-2019. ([This website](https://evl33t.github.io)
+[Discord](https://discord.gg/RWwGmCa)
+[Twitter](https://twitter.com/evl33t)
+[Github](https://github.com/EVL33T))
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://evl33t.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: evl33t
 github_username:  evl33t
 
