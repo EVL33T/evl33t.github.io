@@ -1,7 +1,7 @@
 ---
 ---
 callback([
-{% for page in site.pages reversed | sort: title %}
+{% for page in site.pages %}
   {
     "text": "{{page.title | replace:'"','\"'}}",
     "href": "{{site.baseurl}}{{page.url}}"
