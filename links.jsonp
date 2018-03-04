@@ -1,19 +1,4 @@
 ---
 ---
 callback([
-{% for page in site.posts %}
-  {
-    "text": "{{page.title | replace:'"','\"'}}",
-    "href": "{{site.baseurl}}{{page.url}}"
-  } {% unless forloop.last %},{% endunless%}
-{% endfor %}
-{% assign default_paths = site.pages | map: "path" %}
-{% assign page_paths = site.header_pages | default: default_paths %}
-{% for path in page_paths %}
-    {% assign page = site.pages | where: "path", path | first %}
-            {% if my_page.title %}
-            "text": "{{page.title | replace:'"','\"'}}",
-            "href": "{{site.baseurl}}{{page.url}}"
-            {% endif %}
-{% endfor %}
 ])
