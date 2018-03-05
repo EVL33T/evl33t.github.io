@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: "/about/"
 published: true
-menupos: 3
+menupos: 2
 ---
 > l33t ➡ leet-speak for "elite", in this case, elite hackers.
 
