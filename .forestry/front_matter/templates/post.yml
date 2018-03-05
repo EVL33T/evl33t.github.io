@@ -1,4 +1,6 @@
 ---
+pages:
+- _posts/looking-for-officers.md
 hide_body: false
 fields:
 - name: layout
