@@ -29,8 +29,8 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
- # Google webmasters
- seo: <meta name="google-site-verification" content="RI3uVRgWuJpfRxtX-yY80c4RSUE0BqA6U7drM70cnsc" />
+# Google analytics
+ google_analytics: UA-115077436-1
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
