@@ -1,21 +1,23 @@
 ---
+pages:
+- meetings.md
 hide_body: false
 fields:
 - name: layout
   label: Layout
   type: text
   hidden: false
-  default: ''
+  default: page
 - name: title
   label: Title
   type: text
   hidden: false
-  default: ''
+  default: New Page
 - name: published
   label: Published
   type: boolean
   hidden: false
-  default: ''
+  default: true
 - name: permalink
   label: Permalink
   type: text
