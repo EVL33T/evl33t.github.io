@@ -33,6 +33,7 @@ plugins:
 google_analytics: UA-115077436-1
 
 # Show post excerpts
+excerpt_separator: <!--more-->
 show_excerpts: true
 
 # Exclude from processing.
