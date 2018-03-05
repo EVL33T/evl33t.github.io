@@ -1,12 +1,10 @@
 ---
-pages:
-- meetings.md
 hide_body: false
 fields:
 - name: layout
   label: Layout
   type: text
-  hidden: false
+  hidden: true
   default: page
 - name: title
   label: Title
@@ -23,3 +21,5 @@ fields:
   type: text
   hidden: false
   default: ''
+  config:
+    required: true
