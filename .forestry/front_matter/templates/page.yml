@@ -29,3 +29,4 @@ fields:
 - type: number
   name: menupos
   label: Menu Position
+  default: '0'
