@@ -1,5 +1,6 @@
 ---
 pages:
+- home.md
 - posts.md
 hide_body: false
 fields:
