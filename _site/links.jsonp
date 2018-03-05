@@ -1,2 +1,66 @@
 callback([
+
+  {
+    "text": "",
+    "href": "/404.html"
+  }
+  ,
+
+  {
+    "text": "About",
+    "href": "/about/"
+  }
+  ,
+
+  {
+    "text": "Home",
+    "href": "/"
+  }
+  ,
+
+  {
+    "text": "",
+    "href": "/links.jsonp"
+  }
+  ,
+
+  {
+    "text": "Posts",
+    "href": "/posts"
+  }
+  ,
+
+  {
+    "text": "",
+    "href": "/assets/main.css"
+  }
+  ,
+
+  {
+    "text": "",
+    "href": "/feed.xml"
+  }
+  ,
+
+  {
+    "text": "",
+    "href": "/sitemap.xml"
+  }
+  ,
+
+  {
+    "text": "",
+    "href": "/robots.txt"
+  }
+  ,
+
+
+
+  {
+    "text": "#FirstPost",
+    "href": "/firstpost/2018/03/04/firstpost.html"
+  }
+  
+
+
 ])
