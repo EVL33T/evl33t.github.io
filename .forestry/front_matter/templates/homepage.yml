@@ -5,4 +5,4 @@ fields:
   label: Layout
   type: text
   hidden: false
-  default: ''
+  default: home
