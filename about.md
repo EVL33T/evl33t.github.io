@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: "/about/"
 published: true
 ---
 This is the hacking club at Evergreen Valley High School, est. 2018-2019.
@@ -11,10 +11,9 @@ Or, even more specificallyer, this is the fourth sentence on the said page.
 
 With that out of the way, I have forgotten what I was going to say.
 
-Here's Us
----------
+## Here's Us
 
-[This website](https://evl33t.github.io)
+[This website](/)
 
 [Discord](https://discord.gg/RWwGmCa)
 
