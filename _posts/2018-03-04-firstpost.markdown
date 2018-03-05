@@ -8,6 +8,8 @@ published: true
 ---
 Welcome to the website for the EVHS Hacking club!
 
+<!--more-->
+
 This website is where announcements will go, as well as some stuff about hacking.
 
 See more here: [About](/about)
