@@ -26,3 +26,6 @@ fields:
   default: ''
   config:
     required: true
+- type: number
+  name: menupos
+  label: Menu Position
