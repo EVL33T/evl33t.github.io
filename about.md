@@ -17,3 +17,11 @@ With that out of the way, I have forgotten what I was going to say.
 * [Discord](https://discord.gg/RWwGmCa) - announcements, chatting, general chaos
 * [Twitter](https://twitter.com/evl33t) - announcements
 * [Github](https://github.com/EVL33T) - code samples and tutorials
+
+### Calendar
+
+<div markdown = "0">
+
+<iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=mvrnjnch7mp7bdbilrd4qu1jmk%40group.calendar.google.com&amp;color=%232F6309&amp;ctz=America%2FLos_Angeles" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+</div>
