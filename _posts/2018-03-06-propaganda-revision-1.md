@@ -1,8 +1,8 @@
 ---
+title: Propaganda, revision 1
 layout: post
-category: blog
-title: 'Propaganda, revision 1'
-date: '2018-03-06 00:00:00 +0000'
+date: 2018-03-06 12:56:25 -0800
+categories: []
 published: true
 ---
-![](/media/Poster.png)This is the first draft of the official club poster.
+![](/media/Poster.png)This is the first draft of the official club poster
