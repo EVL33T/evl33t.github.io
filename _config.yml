@@ -32,6 +32,9 @@ plugins:
 # Google analytics
 google_analytics: UA-115077436-1
 
+# Hypercomments
+hypercomments_id: 102209
+
 # Show post excerpts
 #excerpt_separator: <!--more-->
 #show_excerpts: true
