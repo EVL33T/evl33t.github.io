@@ -33,7 +33,7 @@ With that out of the way, I have forgotten what I was going to say.
 
 <iframe src="https://discordapp.com/widget?id=417910327448043521&theme=dark" width="800" height="500" allowtransparency="true" frameborder="0"></iframe
 
-<a href="redirect.html" style="position:absolute; top:0; left:0; display:inline-block; width:800px; height:500px; z-index:5;"></a>
+<a href="http://discord.gg/RWwGmCal" style="position:absolute; top:0; left:0; display:inline-block; width:800px; height:500px; z-index:5;"></a>
 
 </div>
 
