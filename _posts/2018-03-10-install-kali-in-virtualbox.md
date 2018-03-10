@@ -5,7 +5,7 @@ date: 2018-03-09 00:00:00 +0000
 published: true
 categories: []
 ---
-Kali is the most popular pen testing linux distros, and installing it on your computer is hard, so let's do it in VirtualBox.
+Kali is the most popular pen testing linux distros, and installing it on your computer is hard/dangerous to your mental health, so let's do it in VirtualBox.
 
 ## 1. Download VirtualBox
 
