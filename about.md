@@ -29,9 +29,9 @@ With that out of the way, I have forgotten what I was going to say.
 
 ### Discord
 
-<div markdown = "0" onclick="window.location.href='https://discord.gg/RWwGmCa';" style="cursor: pointer;">
+<div markdown = "0" >
 
-<iframe src="https://discordapp.com/widget?id=417910327448043521&theme=dark" width="800" height="500" allowtransparency="true" frameborder="0"></iframe>
+<iframe src="https://discordapp.com/widget?id=417910327448043521&theme=dark" width="800" height="500" allowtransparency="true" frameborder="0" onclick="window.location.href='https://discord.gg/RWwGmCa';" style="cursor: pointer;"></iframe>
 
 </div>
 
