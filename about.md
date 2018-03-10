@@ -38,6 +38,6 @@ With that out of the way, I have forgotten what I was going to say.
 
 <div markdown = "0">
 
-<a class="twitter-timeline"   href="https://twitter.com/evl33t">Twitter Feed</a>
+<a class="twitter-timeline" href="https://twitter.com/evl33t?ref_src=twsrc%5Etfw">Tweets by evl33t</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 </div>
