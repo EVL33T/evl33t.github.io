@@ -26,8 +26,18 @@ With that out of the way, I have forgotten what I was going to say.
 
 </div>
 
+### Discord
+
 <div markdown = "0">
 
 <iframe src="https://discordapp.com/widget?id=417910327448043521&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+
+</div>
+
+### Twitter
+
+<div markdown = "0">
+
+<a class="twitter-timeline"   href="https://twitter.com/evl33t">Twitter Feed</a>
 
 </div>
