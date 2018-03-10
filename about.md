@@ -14,6 +14,7 @@ With that out of the way, I have forgotten what I was going to say.
 ### Here's Us
 
 * [This website](/) - collection of all of the below
+* [Calendar](https://calendar.google.com/calendar/b/1?cid=bXZybmpuY2g3bXA3YmRiaWxyZDRxdTFqbWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) - meeting times
 * [Discord](https://discord.gg/RWwGmCa) - announcements, chatting, general chaos
 * [Twitter](https://twitter.com/evl33t) - announcements
 * [Github](https://github.com/EVL33T) - code samples and tutorials
