@@ -56,5 +56,3 @@ Some important settings:
 * Install grub to /dev/sda
 
 Comment if you have any issues with this.
-
-To test the system, do this {% gist 6431ff98edc6417f34cf9949ac2fa1dc %}
