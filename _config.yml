@@ -34,7 +34,6 @@ plugins:
 google_analytics: UA-115077436-1
 
 # Comments
-# hypercomments_id: 102209
 disqus:
     shortname: evl33t
 
